@@ -12,7 +12,7 @@
 
 **Uboot download, see: https://github.com/leeboby/opizero3-uboot-dtb**
 
-**[ImagePatcher.exe](https://github.com/lalakii/orangepi_zero3_fedora_img/blob/master/ImagePatcher.exe), this tool can be used to update the image file with uboot**
+**[ImagePatcher.exe](https://github.com/lalakii/orangepi_zero3_fedora_img/blob/master/ImagePatcher.exe), use this tool to update the uboot of the image.**
 
 ## Systeminfo
 
