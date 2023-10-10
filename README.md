@@ -1,4 +1,4 @@
-# OrangePi_Zero3_Fedora_img
+# OrangePi_Zero3_Fedora_img【Preview】
 
 ## Quick Start
 
