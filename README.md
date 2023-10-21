@@ -1,5 +1,7 @@
 # OrangePi_Zero3_Fedora_img【Preview】
 
+New Version: [Fedora 39 for Orange Pi Zero3](https://github.com/lalakii/fedora_39_minimal_orangepizero3/)
+
 ## Quick Start
 
 **Fedora 28 for Orange Pi Zero3 (default 1.5GB uboot): [Download](https://drive.google.com/file/d/104cjaPTqkKlZUNhH5R7KwzsoHPgyc8NV/view?usp=sharing)**
